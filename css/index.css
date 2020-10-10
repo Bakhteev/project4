@@ -3,4 +3,5 @@
 @import "var.css";
 @import "components/header.css";
 @import "components/hero.css";
-@import "components/project.css"
+@import "components/project.css";
+@import "components/request.css"

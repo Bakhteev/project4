@@ -1,0 +1,12 @@
+.request{
+    margin: 128px 0 150px 0;
+    background-color: var(--orange);
+}
+.request__inner{
+    align-items: center;
+}
+.request__btn__icon{
+    position: absolute;
+    top:14px;
+    left: 30px;
+}
