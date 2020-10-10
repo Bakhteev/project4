@@ -1,0 +1,21 @@
+.services__items{
+    margin-bottom: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F7;
+    max-width: 350px;
+    max-height: 250px;
+}
+.services__img{
+    padding:60px 0 30px 0;
+}
+.services__items__title{
+    padding-bottom: 60px;
+    max-width: 172px;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 31px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}

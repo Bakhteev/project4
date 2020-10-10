@@ -31,6 +31,7 @@
 }
 .title{
     font-size: 36px;
+    font-weight: 500;
     line-height: 53px;
     text-transform: uppercase;
     text-align: center;
@@ -55,13 +56,12 @@
 }
 .title-h3{
     font-size: 24px;
+    font-weight: 500;
     line-height: 36px;
     color: #404149;
 }
 .btn{
     text-align: right;
-    outline: none;
-    border: none;
     width: 175px;
     height: 50px;
     padding: 14px 15px 14px 0;
@@ -71,5 +71,4 @@
     font-size: 14px;
     line-height: 21px;
     letter-spacing: 0.05em;
-
 }
