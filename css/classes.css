@@ -24,6 +24,7 @@
 .space-between{
     display: flex;
     justify-content: space-between;
+    width: 1110px;
 }
 .relative{
     position: relative;
@@ -32,6 +33,8 @@
     font-size: 36px;
     line-height: 53px;
     text-transform: uppercase;
+    text-align: center;
+    color: var(--dark);
 }
 .title-white{
     font-weight: 700;

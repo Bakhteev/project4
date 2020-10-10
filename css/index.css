@@ -2,4 +2,5 @@
 @import "classes.css";
 @import "var.css";
 @import "components/header.css";
-@import "components/hero.css"
+@import "components/hero.css";
+@import "components/project.css"
