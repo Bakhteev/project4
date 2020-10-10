@@ -1,0 +1,48 @@
+.container{
+    max-width: 1110px;
+    margin: auto;
+}
+.col-12{
+    width: 100%;
+}
+.col-6{
+    width: 50%;
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 33.33%;
+}
+.flex{
+    display: flex;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.relative{
+    position: relative;
+}
+.title{
+    font-size: 36px;
+    line-height: 53px;
+    text-transform: uppercase;
+}
+.title-white{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+.title-h3{
+    font-size: 24px;
+    line-height: 36px;
+    color: #404149;
+}

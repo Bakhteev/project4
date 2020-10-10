@@ -1,0 +1,36 @@
+.header{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.burger{
+    width: 50px;
+    height: 50px;
+    background-color: var(--orange);
+    cursor: pointer;
+   justify-content:  center;
+   align-items: center;
+}
+.burger__line{
+    position: relative;
+    display: block;
+    width: 21px;
+    height: 2px;
+    background-color: #fff;
+    text-align: center;
+}
+.burger__line::before,
+.burger__line::after{
+    position: absolute;
+    width: 21px;
+    height: 2px;
+    content:"";
+    background-color: #fff;
+    top: -5px;
+    left: 0;
+}
+.burger__line::after{
+    top: 5px;
+}
