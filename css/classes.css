@@ -24,7 +24,6 @@
 .space-between{
     display: flex;
     justify-content: space-between;
-    width: 1110px;
 }
 .is-active{
     display: block;

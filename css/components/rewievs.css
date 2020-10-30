@@ -1,0 +1,49 @@
+.rewievs{
+    margin: 150px 0;
+}
+.rewievs__title {
+    margin-bottom: 64px;
+}
+.rewievs__row {
+    
+}
+.rewievs__item{
+    width: 350px;
+    margin-right: 30px;
+}
+.rewievs__item:last-child{
+    margin-right: 0px;
+}
+.rewievs__inner{
+    padding: 0 30px 38px 30px;
+    background-color: #F7F7F7;
+}
+.rewievs__quotes {
+    width: 33px;
+    height: 33px;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 142px;
+    text-transform: uppercase;
+    color: var(--orange);
+}
+.rewievs__description {
+    max-width: 290px;
+    margin-top: -63px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--gray);
+}
+.rewievs__autor {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+
+}
+.rewievs__autor span{
+    color: var(--orange);
+}
