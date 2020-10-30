@@ -1,0 +1,14 @@
+.partners{
+    background: var(--dark);
+    padding: 95px 0;
+}
+.partners__title{
+    padding-bottom: 60px;
+    color: #fff;
+}
+.partners__img{
+    max-width: 170px;
+}
+.partners__img:not(:last-child){
+    margin-right: 65px;
+}

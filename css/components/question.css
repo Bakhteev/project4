@@ -1,3 +1,9 @@
+.question{
+    margin-bottom: 150px;
+}
+.question__title{
+    margin-bottom: 50px;
+}
 .question__item{
     padding-left: 30px;
 }
