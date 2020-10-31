@@ -1,0 +1,28 @@
+.footer {
+    margin-bottom: 150px;
+}
+.footers__title {
+    margin-bottom: 60px;
+}
+.footer__img{
+    margin-bottom: 26px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.footer__title-h3{
+    margin-bottom: 25px;
+    text-align: center;
+    color: var(--gray);
+}
+.footer__addres, .footer__contacts, .footer__days, .footer__time, .footer__mail {
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    display: block;
+}
+.footer__contacts {
+    color: #000000;
+}
+.footer__mail {
+    color: var(--orange);
+}
