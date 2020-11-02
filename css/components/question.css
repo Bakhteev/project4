@@ -1,5 +1,6 @@
 .question{
     margin-bottom: 150px;
+    height: 500px;
 }
 .question__title{
     margin-bottom: 50px;
@@ -20,6 +21,19 @@
     border-top: 7px solid transparent;
 	border-left: 15px solid var(--orange);
 	border-bottom: 7px solid transparent;
+}
+.question__item__title::after{
+    display: none;
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 30%;
+    left: -25px;
+    content: "";
+    border-top: 7px solid transparent;
+	border-left: 15px solid var(--orange);
+    border-bottom: 7px solid transparent;
+    transform: rotate(45deg);
 }
 .question__item__description{
     display: none;
